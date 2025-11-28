@@ -16,6 +16,17 @@ I specialize in **React, Next.js, TypeScript, Tailwind, Vite, ShadCN**, and mode
 
 ---
 
+### 🤖 AI & SaaS Engineering
+- AI-driven user experiences & dynamic interfaces  
+- Real-time coaching, chat, and assistant-style UX  
+- Integrations with **Azure Cognitive Services**, **Speech SDK**, **OpenAI APIs**, and **vector-based reasoning**  
+- Audio processing: STT (Speech-to-Text), TTS (Text-to-Speech), custom Web Audio pipelines  
+- Building scalable frontend architectures for AI-powered platforms  
+- State management & caching for high-frequency AI interactions (TanStack Query, Zustand)  
+- Multi-tenant SaaS flows (auth, permissions, roles, environments)
+
+---
+
 ### 📦 Custom Libraries & Scalable Architecture
 - Creator of modular frontend libraries  
 - Maintainable architecture & clean coding practices  
